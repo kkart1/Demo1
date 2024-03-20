@@ -6,6 +6,8 @@ public class DemoClass {
 		// TODO Auto-generated method stub
 		
 		int a=10;
+		String s="Hello World";
+		System.out.println(s);
 		
 		System.out.println(a);
 
